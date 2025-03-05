@@ -14,7 +14,9 @@
 4 Дизайн-студия имени Слишком известного персонажа
 Ниже пример кода нашего приложения:
 
+css
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
+</details>
